@@ -1,0 +1,17 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+@import url(http://fonts.googleapis.com/css?family=Chewy);
+@charset "utf-8";
+body {
+	margin-top: 0px;
+	background-color: #ffffff;
+	width: auto;
+}
+#wrapper {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+

@@ -1,0 +1,48 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+@charset "utf-8";
+
+h1{
+margin-left:25px;
+font-family:ubuntu;
+}
+#addbook{
+margin-left: auto;
+margin-right: auto;
+width:400px;
+border-radius: 10px;
+font-family:raleway;
+border: 2px solid #ccc;
+padding: 10px 40px 25px;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+	font-family:raleway;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #444444;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+	font-family:raleway;
+}
+
+input[type=submit]:hover {
+    background-color: #333333;
+}
+
+
+
